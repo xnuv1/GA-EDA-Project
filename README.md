@@ -47,21 +47,21 @@ Team: Team name
 
 NOC: National Olympic Committee code 
 
-Country: Country name (engineered, from 'region')
-
 Games: Year + Season
-
-Year: Year of the Olympic Games (engineered)
-
-Season: Summer or Winter (engineered)
 
 City: Host city
 
 Sport: Sport category 
 
+Medal: Gold, Silver, Bronze, or No Medal (cleaned)
+
 Event: Specific event 
 
-Medal: Gold, Silver, Bronze, or No Medal (cleaned)
+Region: Country name
+
+Year: Year of the Olympic Games (engineered)
+
+Season: Summer or Winter (engineered)
 
 ---
 ## Recommendations/Conclusion
