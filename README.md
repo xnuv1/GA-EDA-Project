@@ -12,11 +12,13 @@ Our analysis showed that male athletes dominated participation in earlier years,
  ## File Directory
 
  Code --> Code.ipynb
+ 
  Data --> Orgiginal Data:
              athelte_events.csv
              noc_regions.csv
           Cleaned Data:
               Cleaned.csv
+              
 Presentation --> Presentation.ppt
 
 --
@@ -60,6 +62,14 @@ Event: Specific event
 Medal: Gold, Silver, Bronze, or No Medal (cleaned)
 
 ---
+## Recommendations/Conclusion
+- Gender differences in Olympic participation have steadily decreased over time, reflecting progress toward equity.
+- Participation dropped in certain years due to global conflicts or political boycotts, most notably in the 1940s (World War II) and 1980s (Cold War tensions).
+- The number of events available to female athletes has increased significantly in recent decades, signaling a global push to elevate women's sports.
+- Age is a key performance factor: most Olympic medalists are under 35 years old, highlighting the physical peak period for elite competition.
+- Summer Olympics consistently host more athletes and events than Winter Games, offering broader opportunities for gender equity and age diversity analysis.
+- Winter medalists tend to be slightly older on average, especially in sports that rely more on skill and precision than raw physical exertion
+
 
 ## Areas for Further Research/Study
 
