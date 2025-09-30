@@ -47,7 +47,7 @@ Team: Team name
 
 NOC: National Olympic Committee code 
 
-Country: Country name 
+Country: Country name (engineered, from 'region')
 
 Games: Year + Season
 
