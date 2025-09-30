@@ -13,15 +13,17 @@ Our analysis showed that male athletes dominated participation in earlier years,
 
  Code --> Code.ipynb
  
- Data --> Orgiginal Data:
-             athelte_events.csv
-             noc_regions.csv
-          Cleaned Data:
-              Cleaned.csv
+ Data --> 
+   Orgiginal Data
+     athelte_events.csv
+     noc_regions.csv
+  
+  Cleaned Data:
+     Cleaned.csv
               
 Presentation --> Presentation.ppt
 
---
+---
 
 ## Data and Data Dictionary
 
